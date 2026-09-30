@@ -6,6 +6,7 @@ import {
   signOut,
   onAuthStateChanged,
 } from "firebase/auth";
+import { users } from "../data.js";
 
 const Nav = () => {
   // This states that there is no user signed-in
