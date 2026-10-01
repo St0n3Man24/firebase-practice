@@ -30,6 +30,22 @@
   background-color: rgb(106, 32, 175);
 }
 
+.btn__register--skeleton {
+  width: 94px;
+  height: 30px;
+  background-color: rgb(203, 199, 214);
+  border-radius: 4px;
+  margin: 0 12px;
+}
+
+.btn__login--skeleton {
+  width: 76px;
+  height: 30px;
+  background-color: rgb(203, 199, 214);
+  border-radius: 4px;
+  margin: 0 12px;
+}
+
 .btn__login {
   padding: 8px 20px;
   background-color: rgb(174, 177, 177);
@@ -49,6 +65,14 @@
   background-color: blueviolet;
   color: white;
   font-size: 32px;
+}
+
+.btn__logout--skeleton {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgb(203, 199, 214);
+  margin: 0 12px;
 }
 
 .btn {
